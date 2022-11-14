@@ -1,0 +1,4 @@
+usuario: tpo2integrador
+contra: tpo2integrador
+bd: tpo2int
+puerto: 3306
